@@ -1,0 +1,6 @@
+framework module Pods_myClimaApp {
+  umbrella header "Pods-myClimaApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
